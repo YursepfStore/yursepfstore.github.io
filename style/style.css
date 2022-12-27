@@ -242,7 +242,7 @@ i {
   }
   .tentang {
     margin-top: 75px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     text-align: center;
   }
   .tentang > h2 {
@@ -255,6 +255,7 @@ i {
   }
   .container-tentang > div {
     font-size: 12px;
+    padding: 10px;
   }
   .dua > h2 {
     font-size: 20px;
@@ -274,7 +275,7 @@ i {
     margin-right: 20px;
   }
   .container-produk > h4 {
-    font-size: 20px;
+    font-size: 16px;
     padding-top: 10px;
   }
   .container-produk > div {
@@ -290,11 +291,16 @@ i {
   .tombol-kembali {
     font-size: 12px;
   }
+  .col-md-4 {
+    padding: 0;
+    width: 300px;
+    margin-bottom: 10px;
+  }
   .card {
-    width: 22rem;
-    height: 32rem;
+    width: 18rem;
+    height: 28rem;
   }
   .card-img-top {
-    width: 22rem;
+    width: 18rem;
   }
 }
